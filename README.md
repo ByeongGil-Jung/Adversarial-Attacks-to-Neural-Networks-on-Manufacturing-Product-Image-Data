@@ -26,7 +26,8 @@ Conference
 </div>
  
 ## Description   
-PyTorch Implementation of 'Adversarial Attacks to Neural Networks on Manufacturing Product Image Data'
+PyTorch Implementation of 'Adversarial Attacks to Neural Networks on Manufacturing Product Image Data'  
+(Dataset reference : https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
 
 ## How to run   
 First, install dependencies   
