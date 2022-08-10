@@ -45,7 +45,7 @@ Next, navigate to jupyter notebook files, and run it.
 ```
 @article{jung2020
   title={Adversarial Attacks to Neural Networks on Manufacturing Product Image Data},
-  author={Byeonggil Jung, Sangkyun Lee},
+  author={Byeonggil Jung and Sangkyun Lee},
   journal={CISC-W},
   year={2020},
   howpublished={\url{https://github.com/ByeongGil-Jung/Adversarial-Attacks-to-Neural-Networks-on-Manufacturing-Product-Image-Data}}
